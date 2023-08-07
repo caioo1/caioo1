@@ -1,4 +1,4 @@
-<p align="left"><strong><samp>「</samp></strong></p>
+<p align="left"><strong><samp></samp></strong></p>
   <p align="center">
     <samp>
       <b>
@@ -15,7 +15,9 @@
       </b>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<p align="right"><strong><samp></samp></strong></p>
+
+<img src="read.jpg">
 
 <br>
 
